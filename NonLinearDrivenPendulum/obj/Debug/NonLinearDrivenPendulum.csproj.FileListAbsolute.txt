@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\bin\Debug\NonLinearDrivenPendulum.exe.config
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\bin\Debug\NonLinearDrivenPendulum.exe
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\bin\Debug\NonLinearDrivenPendulum.pdb
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.Form1.resources
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.Properties.Resources.resources
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.exe
+C:\Users\0319be\Downloads\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.pdb
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\bin\Debug\NonLinearDrivenPendulum.exe.config
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\bin\Debug\NonLinearDrivenPendulum.exe
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\bin\Debug\NonLinearDrivenPendulum.pdb
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.Form1.resources
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.Properties.Resources.resources
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.exe
+E:\All Files Folder\Simulation\After mids 7\Sem 7\Simulation\NonLinearDrivenPendulum\NonLinearDrivenPendulum\obj\Debug\NonLinearDrivenPendulum.pdb
